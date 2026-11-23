@@ -1,0 +1,18 @@
+{
+  "blob_name": "blob-MRN-2026-0813-3e6befb7.dat",
+  "container": "patient-medical-records",
+  "original_size": 1045,
+  "encrypted_size": 1061,
+  "encryption_algorithm": "AES-256-GCM",
+  "key_provider": "Azure Key Vault (Managed Key)",
+  "nonce_hex": "4a289d90198d7f74845327c4",
+  "plaintext_sha256": "f2be7cdf8b056e3d57b3e923c3c7ff304fadfa1cc6cdbf3fe9f4b91b3f209be7",
+  "ciphertext_sha256": "4a30174eced4178758f8ffc1d72e82ba99cdf456a2231cb4466d890f03bb4cc7",
+  "uploaded_at": "2026-11-23T08:47:20.826451+00:00",
+  "user_metadata": {
+    "patient_mrn": "MRN-2026-0813",
+    "title": "Coronary CT Angiography Follow-up",
+    "category": "Radiology",
+    "uploader": "dr_suhas"
+  }
+}

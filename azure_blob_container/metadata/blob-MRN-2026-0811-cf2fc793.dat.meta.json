@@ -1,0 +1,18 @@
+{
+  "blob_name": "blob-MRN-2026-0811-cf2fc793.dat",
+  "container": "patient-medical-records",
+  "original_size": 1207,
+  "encrypted_size": 1223,
+  "encryption_algorithm": "AES-256-GCM",
+  "key_provider": "Azure Key Vault (Managed Key)",
+  "nonce_hex": "582d43ab510f4814a2bcc799",
+  "plaintext_sha256": "2fd1b7fb162de6bba8c5433575e2de09051f99acea6bac3efe873a6a04fb2125",
+  "ciphertext_sha256": "01879eb04e14979661909e879f9507391c5e060a7467afde5a8c8b7af23b5993",
+  "uploaded_at": "2026-11-22T15:35:41.213422+00:00",
+  "user_metadata": {
+    "patient_mrn": "MRN-2026-0811",
+    "title": "2D Transthoracic Echocardiogram Report",
+    "category": "Cardiology",
+    "uploader": "dr_suhas"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "blob_name": "blob-MRN-2026-0811-5bddeaa9.dat",
+  "container": "patient-medical-records",
+  "original_size": 1443,
+  "encrypted_size": 1459,
+  "encryption_algorithm": "AES-256-GCM",
+  "key_provider": "Azure Key Vault (Managed Key)",
+  "nonce_hex": "e6c6052c1828c61b7ab3b78b",
+  "plaintext_sha256": "70fce5470d4ee43f3791f16399394e7b7f27b3495296bd3ef562e29680d65e8b",
+  "ciphertext_sha256": "353e424eea4b963139db186814e94de27e65321541a0f5cde13e3738ad7f976c",
+  "uploaded_at": "2026-11-23T08:47:20.807293+00:00",
+  "user_metadata": {
+    "patient_mrn": "MRN-2026-0811",
+    "title": "Comprehensive Lipid & Cardiac Biomarker Panel",
+    "category": "Laboratory",
+    "uploader": "dr_suhas"
+  }
+}

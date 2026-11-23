@@ -1,0 +1,18 @@
+{
+  "blob_name": "blob-MRN-2026-0812-5616b614.dat",
+  "container": "patient-medical-records",
+  "original_size": 1022,
+  "encrypted_size": 1038,
+  "encryption_algorithm": "AES-256-GCM",
+  "key_provider": "Azure Key Vault (Managed Key)",
+  "nonce_hex": "9093aa5b973c30821e5e3910",
+  "plaintext_sha256": "f4c2453c2ca513220329a97342813d1812606dba5a0ff4fdd2a21bab5ad1afa8",
+  "ciphertext_sha256": "d804e9f009ecf94b65af6330008858322c3c316c8822b3c0572cc9370a666735",
+  "uploaded_at": "2026-11-23T08:45:09.068563+00:00",
+  "user_metadata": {
+    "patient_mrn": "MRN-2026-0812",
+    "title": "Complete Blood Count & Allergy IgE Panel",
+    "category": "Laboratory",
+    "uploader": "nurse_sujan"
+  }
+}
